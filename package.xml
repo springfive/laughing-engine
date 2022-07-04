@@ -3,6 +3,7 @@
     <types>
         <members>AG_picklist_value__mdt-Présentation AG picklist value</members>
         <members>ATC_Special__c-Présentation ATC Spécial</members>
+        <members>Account-CG Consolidé - Admin</members>
         <name>Layout</name>
     </types>
     <types>
