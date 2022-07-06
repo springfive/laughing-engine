@@ -15,6 +15,8 @@
         <members>Account-Compte de Gestion Meunerie BA - Livré</members>
         <members>Account-Compte de Gestion Vigne - Envoi de document</members>
         <members>Account-Compte de Gestion Vigne - Livré</members>
+        <members>Account-Compte de gestion consolidé</members>
+        <members>Account-Compte de gestion consolidé GC</members>
         <members>AccountContactRelation-Présentation Relation du contact du compte</members>
         <members>Annonce__c-Annonce Location %2F Gérance</members>
         <name>Layout</name>
