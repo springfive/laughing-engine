@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Account-Compte Soufflet</members>
-        <members>Account-Compte de Gestion Vigne - Livré</members>
-        <members>AccountContactRelation-Présentation Relation du contact du compte</members>
+        <members>Annonce__c-Annonce Location %2F Gérance</members>
         <name>Layout</name>
     </types>
     <version>52.0</version>

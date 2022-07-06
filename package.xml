@@ -16,6 +16,7 @@
         <members>Account-Compte de Gestion Vigne - Envoi de document</members>
         <members>Account-Compte de Gestion Vigne - Livré</members>
         <members>AccountContactRelation-Présentation Relation du contact du compte</members>
+        <members>Annonce__c-Annonce Location %2F Gérance</members>
         <name>Layout</name>
     </types>
     <types>
