@@ -5,6 +5,7 @@
         <name>CustomLabel</name>
     </types>
     <types>
+        <members>AG_ModeDeLivraison__mdt-AG Mode de livraison Picklist Layout</members>
         <members>AG_picklist_value__mdt-Présentation AG picklist value</members>
         <members>ATC_Special__c-Présentation ATC Spécial</members>
         <members>Account-CG Consolidé - Admin</members>
