@@ -13,6 +13,8 @@
         <members>ACC_Cycle_Referentiel_A_Valider</members>
         <members>ACC_Cycle_Referentiel_Brouillon</members>
         <members>ACC_Cycle_Referentiel_Verifie</members>
+        <members>ACC_Record_Type_DeveloperName_Livre_Vigne</members>
+        <members>ACC_Record_Type_DeveloperName_Partenaire</members>
         <name>CustomLabel</name>
     </types>
     <types>
