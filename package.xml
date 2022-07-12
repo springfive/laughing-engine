@@ -47,5 +47,10 @@
         <members>AdressecFicheQualit/Prsentation_Contact_iOH</members>
         <name>Report</name>
     </types>
+    <types>
+        <members>Account.ACC_FU01_TechMALT</members>
+        <members>Account.ACC_FU02_Tech_Compte_Soufllet</members>
+        <name>WorkflowFieldUpdate</name>
+    </types>
     <version>52.0</version>
 </Package>
