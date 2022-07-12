@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
-        <fullName>ACC_ActiviteFarine</fullName>
+        <fullName>ACCESS_TOKEN_AGENDA</fullName>
         <language>en_US</language>
         <protected>false</protected>
-        <shortDescription>ACC_ActiviteFarine</shortDescription>
-        <value>FAR</value>
+        <shortDescription>ACCESS_TOKEN_AGENDA</shortDescription>
+        <value>ya29.a0AfH6SMCqB2hri9cU3jh3ETX2PKLL9Q42qZFi8H-0sprVzB0LsjxM_dTLitASoAlKSz8ofPdCXhMYHVEIGoKwCADNVRzwfL1YzxM0DnHV_mEFqfdtWadY-BvAXKy9X-QAgpYQ3wgHZh9aHaMDT80jE5OgzZ_ajkYREv5u</value>
+    </labels>
+    <labels>
+        <fullName>BaseUrl</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Base URL</shortDescription>
+        <value>https://s5.lightning.force.com/</value>
+    </labels>
+    <labels>
+        <fullName>aUrl_for_application_form</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>aUrl_for_application_form</shortDescription>
+        <value>https://springfive.force.com/S5recruitmentIndia/?positionid=</value>
+    </labels>
+    <labels>
+        <fullName>aUrl_for_interview_tab</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>aUrl_for_interview_tab</shortDescription>
+        <value>https://springfive.force.com/myspring</value>
     </labels>
 </CustomLabels>

@@ -60,9 +60,59 @@
         <name>ApexPage</name>
     </types>
     <types>
+        <members>ACCESS_TOKEN_AGENDA</members>
         <members>ACC_ActiviteFarine</members>
         <members>ACC_Consolide_Record_Type_Id</members>
         <members>ACC_Cycle_Referentiel_A_Integrer</members>
+        <members>BaseUrl</members>
+        <members>CHANNEL_ORDERS__API_Authentication_Error</members>
+        <members>CHANNEL_ORDERS__API_Callout_Error</members>
+        <members>CHANNEL_ORDERS__API_Callout_Success</members>
+        <members>CHANNEL_ORDERS__API_Callout_Timeout_Error</members>
+        <members>CHANNEL_ORDERS__API_Error_400</members>
+        <members>CHANNEL_ORDERS__API_Error_404</members>
+        <members>CHANNEL_ORDERS__API_Error_500</members>
+        <members>CHANNEL_ORDERS__API_Error_OldOrder</members>
+        <members>CHANNEL_ORDERS__API_Error_OrderStartDate</members>
+        <members>CHANNEL_ORDERS__API_Order_Unexpected_Error</members>
+        <members>CHANNEL_ORDERS__API_UncommitedWork_Error</members>
+        <members>CHANNEL_ORDERS__API_Unknown_Error</members>
+        <members>CHANNEL_ORDERS__Add_Invoice_Description</members>
+        <members>CHANNEL_ORDERS__Admin_Licences_validation_response</members>
+        <members>CHANNEL_ORDERS__An_Error_Occurred</members>
+        <members>CHANNEL_ORDERS__At_Least_One_Admin_License_Required</members>
+        <members>CHANNEL_ORDERS__Auto_renewal_validation_response</members>
+        <members>CHANNEL_ORDERS__COA_AcceptTermsAndConditions</members>
+        <members>CHANNEL_ORDERS__COA_Actions</members>
+        <members>CHANNEL_ORDERS__COA_ActivationCode_Text_Credentials</members>
+        <members>CHANNEL_ORDERS__COA_ActiveModalUITextAppSetup</members>
+        <members>CHANNEL_ORDERS__COA_AddOn</members>
+        <members>CHANNEL_ORDERS__COA_AddOnPopOver</members>
+        <members>CHANNEL_ORDERS__COA_AllProducts</members>
+        <members>CHANNEL_ORDERS__COA_An_Error_Occurred</members>
+        <members>CHANNEL_ORDERS__COA_ApiKey_Text_Credentials</members>
+        <members>CHANNEL_ORDERS__COA_ApplicationName</members>
+        <members>CHANNEL_ORDERS__COA_AssistiveTextRemove</members>
+        <members>CHANNEL_ORDERS__COA_BillingAddress</members>
+        <members>CHANNEL_ORDERS__COA_BillingFrequency</members>
+        <members>CHANNEL_ORDERS__COA_BlankProdCredUITextAppSetup</members>
+        <members>CHANNEL_ORDERS__COA_BlankTestCredUITextAppSetup</members>
+        <members>CHANNEL_ORDERS__COA_Cancellation</members>
+        <members>CHANNEL_ORDERS__COA_CancellationInvalidTimeFrame</members>
+        <members>CHANNEL_ORDERS__COA_CancellationPopOver</members>
+        <members>CHANNEL_ORDERS__COA_CancellationTerms</members>
+        <members>CHANNEL_ORDERS__COA_CannotSetActiveCredentials</members>
+        <members>CHANNEL_ORDERS__COA_CannotSubmitOrders</members>
+        <members>CHANNEL_ORDERS__COA_City</members>
+        <members>CHANNEL_ORDERS__COA_CloneOrderWithInaPCCTError</members>
+        <members>CHANNEL_ORDERS__CancellationOrderDetailsError</members>
+        <members>CHANNEL_ORDERS__Cannot_Edit_Order_response</members>
+        <members>CHANNEL_ORDERS__Cannot_submit_multiple_orders_of_same_type_validation_response</members>
+        <members>CHANNEL_ORDERS__Clone_Order</members>
+        <members>CHANNEL_ORDERS__Clone_This_Product</members>
+        <members>CHANNEL_ORDERS__Close</members>
+        <members>aUrl_for_application_form</members>
+        <members>aUrl_for_interview_tab</members>
         <name>CustomLabel</name>
     </types>
     <types>
