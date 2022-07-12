@@ -23,6 +23,7 @@
         <members>AG_ModeDeLivraison__mdt-AG Mode de livraison Picklist Layout</members>
         <members>AG_picklist_value__mdt-Présentation AG picklist value</members>
         <members>ATC_Special__c-Présentation ATC Spécial</members>
+        <members>Account-AG Compte</members>
         <members>Account-CG Consolidé - Admin</members>
         <members>Account-Compte %28Vigne%29</members>
         <members>Account-Compte Soufflet</members>
@@ -33,6 +34,7 @@
         <members>Account-Compte de Gestion Vigne - Livré</members>
         <members>Account-Compte de gestion consolidé</members>
         <members>Account-Compte de gestion consolidé GC</members>
+        <members>AccountBrand-Présentation de la marque du compte</members>
         <members>AccountContactRelation-Présentation Relation du contact du compte</members>
         <members>AccountContactRelation-Présentation Relation du contact du compte Vigne</members>
         <members>Annonce__c-Annonce Location %2F Gérance</members>

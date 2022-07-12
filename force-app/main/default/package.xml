@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>AnswersHome</members>
-        <members>BandwidthExceeded</members>
-        <members>CanonicalTagPage</members>
-        <name>ApexPage</name>
+        <members>Account-AG Compte</members>
+        <members>Account-CG Consolidé - Admin</members>
+        <members>AccountBrand-Présentation de la marque du compte</members>
+        <name>Layout</name>
     </types>
     <version>52.0</version>
 </Package>
