@@ -44,6 +44,10 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>Acces_Mutation</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
         <members>AdressecFicheQualit/Prsentation_Contact_iOH</members>
         <name>Report</name>
     </types>
