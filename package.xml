@@ -13,6 +13,13 @@
         <name>ApexPage</name>
     </types>
     <types>
+        <members>AccountAfterInsert</members>
+        <members>AccountAfterUpdate</members>
+        <members>AccountBeforeInsert</members>
+        <members>AccountBeforeUpdate</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
         <members>ACC_ActiviteFarine</members>
         <members>ACC_Consolide_Record_Type_Id</members>
         <members>ACC_Cycle_Referentiel_A_Integrer</members>
