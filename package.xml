@@ -4,6 +4,9 @@
         <members>agf__ADM_ChatterButton</members>
         <members>agf__ADM_ChatterFollowers</members>
         <members>agf__ADM_Comments</members>
+        <members>agf__ADM_HelpHover2</members>
+        <members>agf__ADM_Input</members>
+        <members>agf__ADM_Input_JavaScript</members>
         <name>ApexComponent</name>
     </types>
     <types>
