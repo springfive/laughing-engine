@@ -63,6 +63,11 @@
         <name>Report</name>
     </types>
     <types>
+        <members>Annonce__c.ALLEnregistrement_d_une_annonce_dans_SF</members>
+        <members>Annonce__c.Alerte_RDS_Son_annonce_est_publi_e</members>
+        <name>WorkflowAlert</name>
+    </types>
+    <types>
         <members>Account.ACC_FU01_TechMALT</members>
         <members>Account.ACC_FU02_Tech_Compte_Soufllet</members>
         <name>WorkflowFieldUpdate</name>
