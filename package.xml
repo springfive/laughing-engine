@@ -11,6 +11,8 @@
         <members>ACC_Consolide_Record_Type_Id</members>
         <members>ACC_Cycle_Referentiel_A_Integrer</members>
         <members>ACC_Cycle_Referentiel_A_Valider</members>
+        <members>ACC_Cycle_Referentiel_Brouillon</members>
+        <members>ACC_Cycle_Referentiel_Verifie</members>
         <name>CustomLabel</name>
     </types>
     <types>
