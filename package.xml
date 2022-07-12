@@ -1,6 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
+        <members>ApplicationController</members>
+        <members>BypassTriggers</members>
+        <members>CHANNEL_ORDERS__AutocompleteController</members>
+        <members>CHANNEL_ORDERS__BaseData</members>
+        <members>CHANNEL_ORDERS__BaseDataDML</members>
+        <members>CHANNEL_ORDERS__COABatchPostInstall</members>
+        <members>CHANNEL_ORDERS__COAConfig</members>
+        <members>CHANNEL_ORDERS__COAException</members>
+        <members>CHANNEL_ORDERS__COAOrderSendClient</members>
+        <members>CHANNEL_ORDERS__COAOrderSendClientTest</members>
+        <members>CHANNEL_ORDERS__COA_AppSetupContainerController</members>
+        <members>CHANNEL_ORDERS__COA_AppSetupContainerService</members>
+        <members>CHANNEL_ORDERS__COA_BatchProcessorUtils</members>
+        <members>CHANNEL_ORDERS__COA_CloneServiceOrderController</members>
+        <members>CHANNEL_ORDERS__COA_Constants</members>
+        <members>CHANNEL_ORDERS__COA_ContractSelectionController</members>
+        <members>CHANNEL_ORDERS__COA_CronJobDetailSelector</members>
+        <members>CHANNEL_ORDERS__COA_CronTriggerSelector</members>
+        <members>CHANNEL_ORDERS__COA_CustomFieldSetService</members>
+        <members>CHANNEL_ORDERS__COA_CustomLabelStaticReference</members>
+        <members>CHANNEL_ORDERS__COA_CustomerAOVBatch</members>
+        <members>CHANNEL_ORDERS__COA_CustomerAOVScheduler</members>
+        <members>CHANNEL_ORDERS__COA_CustomerOrderProductBatch</members>
+        <members>CHANNEL_ORDERS__COA_CustomerOrderProductBatchScheduler</members>
+        <members>CHANNEL_ORDERS__COA_CustomerOrderProductCalloutClient</members>
+        <members>CHANNEL_ORDERS__COA_CustomerOrderProductCalloutMockImpl</members>
+        <members>CHANNEL_ORDERS__COA_CustomerOrderProductCalloutMockResp</members>
+        <members>CHANNEL_ORDERS__COA_CustomerOrderProductCalloutMockResps</members>
+        <members>CHANNEL_ORDERS__COA_CustomerOrderProductHistorySelector</members>
+        <members>CHANNEL_ORDERS__COA_CustomerOrderProductHistoryService</members>
+        <members>CHANNEL_ORDERS__COA_CustomerRedirectController</members>
+        <members>CHANNEL_ORDERS__COA_CustomerService</members>
+        <members>CHANNEL_ORDERS__COA_CustomersSelector</members>
+        <members>CHANNEL_ORDERS__COA_DateUtil</members>
+        <members>CHANNEL_ORDERS__COA_EmailUtil</members>
+        <members>CHANNEL_ORDERS__COA_FinalizeOrderWizardStepController</members>
+        <members>CHANNEL_ORDERS__COA_GenericValidatorCustomers</members>
+        <members>CHANNEL_ORDERS__COA_GenericValidatorServiceOrders</members>
+        <members>CHANNEL_ORDERS__COA_IServiceOrderValidatable</members>
+        <members>CHANNEL_ORDERS__COA_IsSubmittedInAValidTimeFrame</members>
+        <members>CHANNEL_ORDERS__COA_OpportunitiesSelector</members>
+        <members>CHANNEL_ORDERS__COA_OrderDetailContainerController</members>
+        <members>CHANNEL_ORDERS__COA_OrderDetailsWizardStepController</members>
+        <members>CHANNEL_ORDERS__COA_OrderDetailsWizardStepService</members>
+        <members>CHANNEL_ORDERS__COA_OrderModalContainerController</members>
+        <members>CHANNEL_ORDERS__COA_OrderRedirectController</members>
+        <members>CHANNEL_ORDERS__CheckboxOption</members>
+        <members>CalculateBusinessDaysUtils</members>
+        <members>ChangePasswordController</members>
+        <members>ChangePasswordControllerTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
         <members>AnswersHome</members>
         <members>BandwidthExceeded</members>
         <members>CanonicalTagPage</members>
