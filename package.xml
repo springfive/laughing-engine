@@ -29,7 +29,9 @@
         <members>Account-AG Compte</members>
         <members>Account-CG Consolidé - Admin</members>
         <members>Account-Compte %28Vigne%29</members>
+        <members>Account-Compte - Admin</members>
         <members>Account-Compte Soufflet</members>
+        <members>Account-Compte de Gestion Concurrent</members>
         <members>Account-Compte de Gestion Meunerie BA - Facturé</members>
         <members>Account-Compte de Gestion Meunerie BA - Facturé CCM</members>
         <members>Account-Compte de Gestion Meunerie BA - Livré</members>
