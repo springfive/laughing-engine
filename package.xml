@@ -65,6 +65,14 @@
         <name>PermissionSet</name>
     </types>
     <types>
+        <members>Account.Compte_de_Gestion_Meunerie_BA_Factur</members>
+        <members>Account.Compte_de_Gestion_Vigne_Envoi_de_document</members>
+        <members>Account.Compte_de_Gestion_Vigne_Facture</members>
+        <members>Account.Compte_de_Gestion_Vigne_Livre</members>
+        <members>Account.Compte_de_gestion_Partenaire</members>
+        <name>RecordType</name>
+    </types>
+    <types>
         <members>AdressecFicheQualit/Prsentation_Contact_iOH</members>
         <name>Report</name>
     </types>
