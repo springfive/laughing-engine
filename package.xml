@@ -18,6 +18,12 @@
         <name>CustomLabel</name>
     </types>
     <types>
+        <members>AccountContactRelation</members>
+        <members>AccountContactRole</members>
+        <members>Activite_Soufflet__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Adresse__c</members>
         <members>agf__ADM_Acceptance_Criterion__c</members>
         <members>agf__ADM_Assignment_Rule__c</members>
