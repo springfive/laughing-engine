@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
-        <fullName>ACC_Record_Type_DeveloperName_Livre_Vigne</fullName>
+        <fullName>ACC_Cycle_Referentiel_A_Integrer</fullName>
         <language>fr</language>
         <protected>false</protected>
-        <shortDescription>ACC Record Type DeveloperName Livre Vigne</shortDescription>
-        <value>Compte_de_Gestion_Vigne_Livre</value>
+        <shortDescription>ACC Cycle Referentiel A Integrer</shortDescription>
+        <value>A Intégrer</value>
     </labels>
     <labels>
-        <fullName>ACC_Record_Type_DeveloperName_Partenaire</fullName>
-        <language>en_US</language>
+        <fullName>ACC_Cycle_de_Validation_A_Verifier</fullName>
+        <language>fr</language>
         <protected>false</protected>
-        <shortDescription>ACC_Record_Type_DeveloperName_Partenaire</shortDescription>
-        <value>Compte_de_gestion_Partenaire</value>
+        <shortDescription>ACC Cycle de Validation A Verifier</shortDescription>
+        <value>20</value>
     </labels>
 </CustomLabels>
