@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Account-AG Compte</members>
-        <members>Account-CG Consolidé - Admin</members>
-        <members>AccountBrand-Présentation de la marque du compte</members>
-        <name>Layout</name>
+        <members>Acc_s_aux_pistesconverties</members>
+        <members>Acces_Objet_Badge</members>
+        <members>Activer_Entree_Catalogue_de_Prix</members>
+        <name>PermissionSet</name>
     </types>
     <version>52.0</version>
 </Package>

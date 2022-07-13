@@ -71,7 +71,10 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>Acc_s_aux_pistesconverties</members>
         <members>Acces_Mutation</members>
+        <members>Acces_Objet_Badge</members>
+        <members>Activer_Entree_Catalogue_de_Prix</members>
         <name>PermissionSet</name>
     </types>
     <types>
