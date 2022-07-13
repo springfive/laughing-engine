@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Account-CG Consolidé - Admin</members>
-        <members>Account-Compte de Gestion Meunerie BA - Facturé</members>
-        <members>Account-Compte de Gestion Meunerie BA - Facturé CCM</members>
-        <members>Account-Compte de gestion consolidé</members>
-        <members>Account-Compte de gestion consolidé GC</members>
-        <name>Layout</name>
+        <members>ACC_Record_Type_DeveloperName_Compte</members>
+        <members>ACC_Record_Type_DeveloperName_CompteMutation</members>
+        <name>CustomLabel</name>
     </types>
     <version>52.0</version>
 </Package>
