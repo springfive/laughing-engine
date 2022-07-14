@@ -71,6 +71,10 @@
         <members>AccountContactRelation-Présentation Relation du contact du compte</members>
         <members>AccountContactRelation-Présentation Relation du contact du compte Vigne</members>
         <members>Annonce__c-Annonce Location %2F Gérance</members>
+        <members>MEUBA_Pret__c-Présentation Prêt Capit</members>
+        <members>MEUBA_Pret__c-Présentation Prêt Capit Lecture seule</members>
+        <members>MEUBA_Pret__c-Présentation Prêt Meunier</members>
+        <members>MEUBA_Pret__c-Présentation Prêt Meunier Lecture Seule</members>
         <name>Layout</name>
     </types>
     <types>
